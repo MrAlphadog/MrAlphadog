@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAlphadog
 - 👀 I’m interested in Java, coding, brainstorming.
-- 🌱 I’m currently learning Java, patterns , multithreading
+- 🌱 I’m currently learning Spring, Spring Boot, Security
 - 📫 How to reach me - You are free to contact with me - daniilpopov1@gmail.com
 
 <!---
